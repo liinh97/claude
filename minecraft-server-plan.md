@@ -109,7 +109,9 @@
 | 2 | + Survival nhỏ hoặc OneBlock | Tổng khoảng 80–100 người online, có admin phụ |
 | 3 | + BedWars hoặc minigame | Hàng chờ trận dưới 1–2 phút |
 
-Không nên chọn Crystal PvP (điện thoại khó chơi) hay Cobblemon (cần mod, chỉ chạy trên Java) làm chế độ chính.
+Không nên chọn Crystal PvP (điện thoại khó chơi) hay Cobblemon (cần mod, chỉ chạy trên Java) làm chế độ chính. Pokémon (Cobblemon) có thể là chế độ bổ sung sau.
+
+👉 **Thiết kế khung chi tiết để thêm chế độ dễ dàng (kể cả Pokémon trên Fabric): xem `network-architecture.md`.**
 
 ---
 
